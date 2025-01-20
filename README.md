@@ -51,6 +51,3 @@ Dispositivo: Lavadora
 
 #### Resultado:
 - "El dispositivo Lavadora tiene un consumo elevado. Se recomienda reducir su uso en horarios pico para optimizar los costos."
-
----
-
