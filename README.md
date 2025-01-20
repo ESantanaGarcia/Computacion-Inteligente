@@ -54,13 +54,3 @@ Dispositivo: Lavadora
 
 ---
 
-### **Posibles Mejoras Futuras**
-- Integración con dispositivos inteligentes para monitoreo en tiempo real.
-- Inclusión de predicciones de consumo basadas en aprendizaje automático.
-- Ampliación de las reglas para cubrir más dispositivos y escenarios.
-
----
-
-### **Licencia**
-Este proyecto puede incluirse bajo una licencia abierta como MIT, Apache 2.0, o cualquier otra que consideres adecuada.
-
